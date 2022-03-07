@@ -1,1 +1,1 @@
-# SPring Boot Demo Project
+# Spring Boot Demo Project
